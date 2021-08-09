@@ -1,6 +1,7 @@
 <?php
 //https://github.com/helixcrew/HaxorID-Grabber/
 //https://www.helixsid.today
+//Live API Version http://tools.helixs.tech/API/haxorid.php
 header('Content-type: application/json');
 function getpage($from, $page)
 {
